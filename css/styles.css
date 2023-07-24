@@ -10826,7 +10826,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/bg.jpg");
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../@book7.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -10837,7 +10837,7 @@ p {
 }
 
 .text-faded {
-  color: #f6e1c5;
+  color: whitesmoke;
 }
 
 .site-heading {
@@ -10878,7 +10878,7 @@ p {
 }
 
 .bg-faded {
-  background-color: #f6e1c5;
+  background-color: powderblue;
 }
 
 .btn-xl {
@@ -10891,7 +10891,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: var(--bs-blue);
   font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-brand {
@@ -10917,7 +10917,7 @@ p {
 }
 
 .btn {
-  box-shadow: 0px 3px 3px 0px rgba(33, 37, 41, 0.1);
+  box-shadow: 0px 3px 3px 0px blue;
 }
 
 @media (min-width: 992px) {
@@ -10935,7 +10935,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: var(--bs-blue);
 }
 .cta .cta-inner {
   position: relative;
@@ -10955,7 +10955,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: var(--bs-blue);
 }
 
 .intro {
